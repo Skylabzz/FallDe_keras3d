@@ -1,0 +1,11 @@
+tensorflow==2.9.0
+opencv-python
+seaborn
+fastapi
+uvicorn
+fastapi[standard]
+pydantic
+sqlalchemy
+mysql-connector-python
+numba
+
